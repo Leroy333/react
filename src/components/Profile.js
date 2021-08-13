@@ -6,7 +6,7 @@ const Profile = ()=>{
         </div>
         <div>ava + description</div>
         <div>
-            My posts
+            My posts!!!
             <div>
             New post
             </div>
